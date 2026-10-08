@@ -1,2 +1,1 @@
-# mark-streben-private-edition
-mark-streben-private-edition
+See START-HERE.md for the no-code GitHub and Vercel setup.
